@@ -1,0 +1,2 @@
+git push loklany
+sekcja numer 2
